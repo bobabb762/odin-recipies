@@ -1,0 +1,15 @@
+h1 {
+    font-size: 40px;
+    color: rgb(83, 83, 235);
+    text-align:center;
+}
+body {
+    background-image: url(/home/bo/Desktop/projects/odinprojects/odin-recipies/images/odineating.jpeg);
+    background-color: rgb(240, 149, 167);
+    background-size: cover;
+}
+p.title {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
