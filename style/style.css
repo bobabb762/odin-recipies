@@ -3,13 +3,17 @@ h1 {
     color: rgb(83, 83, 235);
     text-align:center;
 }
-body {
-    background-image: url(/home/bo/Desktop/projects/odinprojects/odin-recipies/images/odineating.jpeg);
-    background-color: rgb(240, 149, 167);
-    background-size: cover;
+
+.background-title{
+        background-image:url("https://img.youtube.com/vi/zob-2dpRtH0/maxresdefault.jpg");
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-color: rgb(49, 221, 164);
 }
 p.title {
-    font-size: 24px;
+    font-size: 26px;
     color: rgb(255, 255, 255);
     text-align: left;
 }
