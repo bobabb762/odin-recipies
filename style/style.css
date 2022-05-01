@@ -1,3 +1,7 @@
+* {
+    border-radius: 10px;
+}
+
 h1 {
     font-size: 40px;
     color: rgb(203, 248, 0);
@@ -11,10 +15,19 @@ img.home {
     border-radius: 25%;
     
 }
+
+.imagecontainer{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 .imgcontainer {
-    display: inline-block;
-    width: 30%;
-    margin: 10px;
+    display: flex;
+    margin: auto;
+    max-width: 30%;
 }
 
 p,ul,li{
